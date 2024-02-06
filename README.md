@@ -1,6 +1,5 @@
 # JAVA-TUTOTIAL
- <center>
-<img src="https://i.imgur.com/PJEnkpd.jpg" height="20%" width="30%"></img>
+ <center><img src="https://i.imgur.com/PJEnkpd.jpg" height="20%" width="30%"></img>
 </center>
 
  <br>
